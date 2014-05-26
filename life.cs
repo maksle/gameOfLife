@@ -240,6 +240,7 @@ namespace GameOfLife
     static void Main (string[] args)
     {
       int[] heartByAlina = { 1, 1, 0, 1, 1, -1, 1, 0, 1, 0, 1, -1, 0, 1, 0, 1, -1, 0, 1, 0, 1, -1, 0, 0, 1 };
+      int[] heartByMax = { 0, 1, 0, 1, -1, 1, 0, 1, 0, 1, -1, 0, 1, 0, 1, -1, 0, 0, 1 };
       int[] glider1 = { 0, 1, -1, 0, 1, 1, -1, 1, 0, 1 };
       int[] rPentomino = { 0, 1, 1, -1, 1, 1, -1, 0, 1};
 
